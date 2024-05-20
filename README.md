@@ -6,5 +6,5 @@ Meu nome é Roberta Gabrielaa
 👨‍💻 Estou me desenvolvendo na linguagem Javascript
 🔭 Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-📫 Quer trocar ideias ou colaborar em projetos? Não hesite em me contatar! Você pode me encontrar em contato atráves do email 00001105714652@al.educacao.sp.gov.br
+📫 Quer trocar ideias ou colaborar em projetos? Não hesite em me contatar! Você pode me encontrar em contato atráves do email 00001105714652sp@al.educacao.sp.gov.br
 
